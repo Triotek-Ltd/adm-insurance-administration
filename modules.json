@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "adm20_3",
+    "module_label": "ADM 20.3 - Claims Processing",
+    "module_title": "Claims Processing",
+    "module_slug": "claims_processing",
+    "app_code": "adm20",
+    "app_label": "ADM 20 - Insurance Administration",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm20_1",
+    "module_label": "ADM 20.1 - Policy Registration",
+    "module_title": "Policy Registration",
+    "module_slug": "policy_registration",
+    "app_code": "adm20",
+    "app_label": "ADM 20 - Insurance Administration",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm20_2",
+    "module_label": "ADM 20.2 - Premium Payment Tracking",
+    "module_title": "Premium Payment Tracking",
+    "module_slug": "premium_payment_tracking",
+    "app_code": "adm20",
+    "app_label": "ADM 20 - Insurance Administration",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  }
+]
